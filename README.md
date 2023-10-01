@@ -26,5 +26,5 @@
 
 ## My Toolkit <a name="my_toolkit"></a>
   This repository contains multiple Jupyter notebooks written in Python.
-  Mostly used libraries are Pytorch, XGboost, scikit-learn, Matplotlib, Pandas and Numpy
+  Mostly used libraries are **Pytorch, XGboost, scikit-learn, Matplotlib, Pandas and Numpy**
 
