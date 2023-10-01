@@ -3,7 +3,7 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Feature Imputation Example](house_prices/house_prices_multiple_regression_models.ipynb)
+- [Feature Engineering Example](house_prices/house_prices_multiple_regression_models.ipynb)
 - [Feature Selection Example](house_prices/house_prices_multiple_regression_models.ipynb)
 - [Supervised Learning](#supervised_learning)
   - [Regression with multiple Algorithms (Regression/ NN/ XGboost)](house_prices/house_prices_multiple_regression_models.ipynb)
