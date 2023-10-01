@@ -3,6 +3,8 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Feature Engineering](house_prices/house_prices_multiple_regression_models.ipynb)
+- [Feature Selection](house_prices/house_prices_multiple_regression_models.ipynb)
 - [Supervised Learning](#supervised_learning)
   - [Regression with multiple Algorithms (Regression/ NN/ XGboost)](house_prices/house_prices_multiple_regression_models.ipynb)
   - [Classification with multiple Algorithms(Logistic Regression/ NN/ XGboost)](titanic/titanic_train_multiple_classification_models-inahshan-mobl.ipynb)
