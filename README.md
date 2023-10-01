@@ -20,5 +20,5 @@
 - [Datasets](datasets)
 
 ## Introduction <a name="introduction"></a>
-  As a software engineer with a decade of experience, I excel in designing, developing, and supporting diverse software systems, spanning mainly infrastructure and backend domains. My key attributes include effective collaboration, strong technical leadership, and a relentless pursuit of innovation and technical excellence.
+  As a software engineer with a decade of experience, I excel in designing, developing, and supporting diverse software systems, spanning mainly infrastructure and backend domains.
   I have a deep passion for transitioning into the Machine Learning field. As a dedicated self-learner, I've completed multiple Udemy courses and amassed this portfolio. Invite you to take a look :)
