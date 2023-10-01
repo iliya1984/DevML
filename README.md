@@ -7,7 +7,7 @@ About Me And My Goals
   I also developed an XGBoost-based proof-of-concept for ETL execution time prediction as part of Intel's Innovation Day. I'm eager to apply my skills and contribute to the world of Machine Learning.
 
 - [Introduction](#introduction)
-- [House Prices Prediction with Multiple Regression Models](https://github.com/iliya1984/DevML/blob/main/house_prices/house_prices_multiple_regression_models.ipynb)
+- [House Prices Prediction with Multiple Regression Models](house_prices/house_prices_multiple_regression_models.ipynb)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
