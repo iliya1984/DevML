@@ -9,7 +9,7 @@ About Me And My Goals
 - [Introduction](#introduction)
 - [Supervised Learning](#supervised_learning)
   - [Regression with multiple Algorithms](house_prices/house_prices_multiple_regression_models.ipynb)
-  - [Classification with Multiple Algorithms](titanic/titanic_train_multiple_classification_models-inahshan-mobl.ipynb)
+  - [Classification with multiple Algorithms](titanic/titanic_train_multiple_classification_models-inahshan-mobl.ipynb)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
