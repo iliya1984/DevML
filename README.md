@@ -8,8 +8,8 @@ About Me And My Goals
 
 - [Introduction](#introduction)
 - [Supervised Learning](#supervised_learning)
-  - [House Prices Prediction with Multiple Regression Models](house_prices/house_prices_multiple_regression_models.ipynb)
-- [Getting Started](#getting-started)
+  - [Regression with multiple Algorithms](house_prices/house_prices_multiple_regression_models.ipynb)
+  - [Classification with Multiple Algorithms](titanic/titanic_train_multiple_classification_models-inahshan-mobl.ipynb)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
