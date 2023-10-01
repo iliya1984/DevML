@@ -11,4 +11,5 @@
   - [Anomaly detection with Eliptic Envelope](unsupervised_learning/anomly_detection/anomaly_detection_elipticenvelope.ipynb)
   - [Market Basket Analysis](unsupervised_learning/market_basket_analysis/market_basket_analysis.ipynb)
   - [Novelty Gift Analysis](unsupervised_learning/market_basket_analysis/novelty_gift_analysis.ipynb)
+  - [House Prices Outlier Detection](house_prices/house_prices_outlier_detection.ipynb)
 - [Infrastructure](ml_infra/infra.ipynb)
