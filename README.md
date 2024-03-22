@@ -16,6 +16,7 @@
 - [Face detection with DLIB](computer_vision/face_recognition/yale_face_recognition_DLIB.ipynb)
 - [Image classification with CNN](computer_vision/image_classification/homer_bart_classifiction_with_cnn.ipynb)
 - [Other computer vision notebooks](computer_vision)
+- [C++ Image Services API](https://github.com/iliya1984/DevCpp/tree/main/image_services/ImageServices.Api)
 - [Infrastructure](ml_infra/infra.ipynb)
 - [Datasets](datasets)
 - [My Toolkit](#mytoolkit)
