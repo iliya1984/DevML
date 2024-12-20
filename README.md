@@ -22,8 +22,8 @@
 - [My Toolkit](#mytoolkit)
 
 ## Introduction <a name="introduction"></a>
-  As a software engineer with a decade of experience, I excel in designing, developing, and supporting diverse software systems, spanning mainly infrastructure and backend domains.
-  I have a deep passion for transitioning into the Machine Learning field. As a dedicated self-learner, I've completed multiple Udemy courses and amassed this portfolio. Invite you to take a look :)
+ I am a seasoned software engineer with over a decade of experience in designing and developing robust software solutions, now fully dedicated to the fields of AI and ML. 
+
 
 ## My Toolkit <a name="mytoolkit"></a>
   This repository contains multiple Jupyter notebooks written in Python.
